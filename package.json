@@ -1,0 +1,9 @@
+{
+  "name": "nagavision-landing",
+  "version": "1.0.0",
+  "description": "Nagavision UK - Premium Web Hosting Landing Page",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  }
+}
